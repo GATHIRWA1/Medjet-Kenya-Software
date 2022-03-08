@@ -1,0 +1,32 @@
+[
+    {   
+        "id": 1,
+        "SNO": "01",
+        "name": "Phytopathology‎",
+        "createddate": "01-May-2020-12:00"
+    },
+    {
+        "id": 2,
+        "SNO": "02",
+        "name": "Family care",
+        "createddate": "03-May-2020-08:00"
+    },
+    {
+        "id": 3,
+        "SNO": "03",
+        "name": "Cancer‎",
+        "createddate": "05-May-2020-06:00"
+    },
+    {
+        "id": 4,
+        "SNO": "04",
+        "name": "Skin care",
+        "createddate": "05-May-2020-02:00"
+    },
+    {
+        "id": 5,
+        "SNO": "05",
+        "name": "Rare diseases‎‎",
+        "createddate": "06-May-2020-06:00"
+    }
+]

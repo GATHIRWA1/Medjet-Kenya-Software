@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "image": "product.jpg",
+        "name": "Benzaxapine Croplex",
+        "sku": "26565",
+        "price": "$19",
+        "total": "$19"
+
+    },
+    {
+        "id": 2,
+        "image": "product2.jpg",
+        "name": "Ombinazol Bonibamol",
+        "sku": "865727",
+        "price": "$22",
+        "total": "$22"
+    },
+    {
+        "id": 3,
+        "image": "product3.jpg",
+        "name": "Dantotate Dantodazole",
+        "sku": "978656",
+        "price": "$10",
+        "total": "$10"
+    },
+    {
+        "id": 4,
+        "image": "product4.jpg",
+        "name": "Alispirox Aerorenone",
+        "sku": "543252",
+        "price": "$26",
+        "total": "$26"
+    },
+    {
+        "id": 5,
+        "image": "product5.jpg",
+        "name": "Nitrolozin Zithrotropin",
+        "sku": "634534",
+        "price": "$12",
+        "total": "$12"
+    }
+]

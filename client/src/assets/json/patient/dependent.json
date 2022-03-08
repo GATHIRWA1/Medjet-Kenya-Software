@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "doctor_name": "Ruby Perrin",
+        "category": "Dental",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "relationship": "Son",
+        "gender": "Male",
+        "number": "9854367346",
+        "email": "abc@gmail.com"
+    },
+    {
+        "id": 2,
+        "doctor_name": "Ruby Perrin",
+        "category": "Dental",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "relationship": "Daughter",
+        "gender": "Female",
+        "number": "9854367346",
+        "email": "abc@gmail.com"
+    },
+    {
+        "id": 3,
+        "doctor_name": "Ruby Perrin",
+        "category": "Dental",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "relationship": "Father",
+        "gender": "Male",
+        "number": "9854367346",
+        "email": "abc@gmail.com"
+    },
+    {
+        "id": 4,
+        "doctor_name": "Ruby Perrin",
+        "category": "Dental",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "relationship": "Mother",
+        "gender": "Male",
+        "number": "9854367346",
+        "email": "abc@gmail.com"
+    }
+]

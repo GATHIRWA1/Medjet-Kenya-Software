@@ -1,0 +1,28 @@
+[
+    {   
+        "id": 1,
+        "SNO": "#PN001",
+        "pharmacyname": "Medlife Medical",
+        "image": "feature-01.jpg",
+        "address": "96 Red Hawk Road Cyrus, MN 56323",
+        "date": "12-05-2020",
+        "phone": "320-795-8815"
+    },
+    {
+        "id": 2,
+        "SNO": "#PN002",
+        "pharmacyname": "PharmaMed Medical",
+        "image": "feature-02.jpg",
+        "address": "3130 Murry Street Princess Anne, VA 23456",
+        "date": "13-05-2020",
+        "phone": "913-631-2538"
+    },
+    {
+        "SNO": "#PN003",
+        "pharmacyname": "The Pill Club Medical",
+        "image": "feature-03.jpg",
+        "address": "3503 Flint Street Saipan, MP 96950",
+        "date": "14-05-2020",
+        "phone": "816-270-2336"
+    }
+]

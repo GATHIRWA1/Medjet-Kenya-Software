@@ -1,0 +1,37 @@
+[
+    {   
+        "id": "1",
+        "invoicenumber": "20169998",
+        "name": "Abilify",
+        "price": "$150",
+        "date": "14-5-2020"
+    },
+    {
+        "id": "2",
+        "invoicenumber": "20169999",
+        "name": "Abilify,Actamin",
+        "price": "$100",
+        "date": "13-5-2020"
+    },
+    {
+        "id": "3",
+        "invoicenumber": "20170001",
+        "name": "Abilify,Actamin,Actamin",
+        "price": "$220",
+        "date": "12-5-2020"
+    },
+    {
+        "id": "4",
+        "invoicenumber": "20170001",
+        "name": "Abilify,Actamin,Actamin",
+        "price": "$220",
+        "date": "15-5-2020"
+    },
+    {
+        "id": "5",
+        "invoicenumber": "20170009",
+        "name": "Abilify",
+        "price": "$500",
+        "date": "14-5-2020"
+    }
+]

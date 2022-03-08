@@ -1,0 +1,40 @@
+[
+    {   
+        "id": 1,
+        "SNO": "#SP001",
+        "image": "product.jpg",
+        "prodescription": "Safi Natural Blood Purifier Syrup 200 ml",
+        "price": "$500",
+        "Date": "12-05-2020"
+    },
+    {
+        "id": 2,
+        "SNO": "#SP002",
+        "image": "product1.jpg",
+        "prodescription": "Safi Natural Blood Purifier Syrup 100 ml",
+        "price": "$100",
+        "Date": "13-05-2020"
+    },
+    {
+        "SNO": "#SP003",
+        "image": "product2.jpg",
+        "prodescription": "Safi Natural Blood Purifier Syrup 50 ml",
+        "price": "$600",
+        "Date": "14-05-2020"
+    },
+    {
+        "SNO": "#SP004",
+        "image": "product3.jpg",
+        "prodescription": "Safi Natural Blood Purifier Syrup 200 ml",
+        "price": "$700",
+        "Date": "15-05-2020"
+    },
+    {
+        "id": 5,
+        "SNO": "#SP005",
+        "image": "product4.jpg",
+        "prodescription": "Safi Natural Blood Purifier Syrup 200 ml",
+        "price": "$1200",
+        "Date": "16-05-2020"
+    }
+]

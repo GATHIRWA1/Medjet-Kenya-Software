@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "medical-img1.jpg",
+        "name": "Medlife Medical",
+        "rating": "17",
+        "phone": "320-795-8815",
+        "location": "96 Red Hawk Road Cyrus, MN 56323",
+        "category": "Chemists, Surgical Equipment Dealer",
+        "opening_time": "Opens at 08.00 AM"
+    },
+    {
+        "id": 2,
+        "image": "medical-img2.jpg",
+        "name": "PharmaMed Medical",
+        "rating": "17",
+        "phone": "913-631-2538",
+        "location": "96 Red Hawk Road Cyrus, MN 56323",
+        "category": "Chemists, Surgical Equipment Dealer",
+        "opening_time": "Opens at 08.00 AM"
+    },
+    {
+        "id": 3,
+        "image": "medical-img3.jpg",
+        "name": "The Pill Club Medical",
+        "rating": "17",
+        "phone": "816-270-2336",
+        "location": "3849 Nutter Street Ferrelview, MO 64163",
+        "category": "Chemists, Surgical Equipment Dealer",
+        "opening_time": "Opens at 08.00 AM"
+    }
+]

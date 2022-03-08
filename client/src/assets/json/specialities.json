@@ -1,0 +1,27 @@
+[
+    {   
+        "id": 1,
+        "image": "specialities-01.png",
+        "name": "Urology"
+    },
+    {
+        "id": 2,
+        "image": "specialities-02.png",
+        "name": "Neurology"
+    },
+    {
+        "id": 3,
+        "image": "specialities-03.png",
+        "name": "Orthopedic"
+    },
+    {
+        "id": 4,
+        "image": "specialities-04.png",
+        "name": "Cardiologist"
+    },
+    {
+        "id": 5,
+        "image": "specialities-05.png",
+        "name": "Dentist"
+    }
+]

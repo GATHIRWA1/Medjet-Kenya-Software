@@ -1,0 +1,57 @@
+[
+    {   
+        "id": "1",
+        "image": "product.jpg",
+        "name": "Abilify",
+        "date": "10-5-2020",
+        "category": "Aripiprazole",
+        "price": "$336",
+        "quantity": "50",
+        "supplier": "Bradley",
+        "Expiredate": "13-06-20"
+    },
+    {
+        "id": "2",
+        "image": "product1.jpg",
+        "name": "Actamin",
+        "date": "11-5-2020",
+        "category": "Phytopathology‎",
+        "price": "$58",
+        "quantity": "33",
+        "supplier": "Douglas",
+        "Expiredate": "20-06-20"
+    },
+    {
+        "id": "3",
+        "image": "product2.jpg",
+        "name": "Adderall",
+        "date": "12-5-2020",
+        "category": "Phytopathology‎",
+        "price": "$30",
+        "quantity": "20",
+        "supplier": "Douglas",
+        "Expiredate": "13-06-20"
+    },
+    {
+        "id": "4",
+        "image": "product3.jpg",
+        "name": "Abilify",
+        "date": "13-5-2020",
+        "category": "Aripiprazole",
+        "price": "$220",
+        "quantity": "60",
+        "supplier": "Bradley",
+        "Expiredate": "13-06-20"
+    },
+    {
+        "id": "5",
+        "image": "product4.jpg",
+        "name": "Actamin",
+        "date": "8-5-2020",
+        "category": "Phytopathology‎",
+        "price": "$15",
+        "quantity": "160",
+        "supplier": "Douglas",
+        "Expiredate": "20-06-20"
+    }
+]

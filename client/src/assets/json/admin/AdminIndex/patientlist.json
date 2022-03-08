@@ -1,0 +1,42 @@
+[
+    {   
+        "id": 1,
+        "name": "Charlene Reed",
+        "image": "patient.jpg",
+        "phone": "8286329170",
+        "lastvisit": "20 Oct 2019",
+        "paid": "$100.00"
+    },
+    {
+        "id": 2,
+        "name": "Travis Trimble",
+        "image": "patient1.jpg",
+        "phone": "2077299974",
+        "lastvisit": "22 Oct 2019",
+        "paid": "$200.00"
+    },
+    {
+        "id": 3,
+        "name": "Carl Kelly",
+        "image": "patient2.jpg",
+        "phone": "2607247769",
+        "lastvisit": "21 Oct 2019",
+        "paid": "$250.00"
+    },
+    {
+        "id": 4,
+        "name": "Michelle Fairfax",
+        "image": "patient3.jpg",
+        "phone": "5043686874",
+        "lastvisit": "21 Sep 2019",
+        "paid": "$150.00"
+    },
+    {
+        "id": 5,
+        "name": "Gina Moore",
+        "image": "patient4.jpg",
+        "phone": "9548207887",
+        "lastvisit": "18 Sep 2019",
+        "paid": "$350.00"
+    }
+]

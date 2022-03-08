@@ -1,0 +1,32 @@
+[
+    {   
+        "id": 1,
+        "SNO": "#SP001",
+        "image": "specialities-01.png",
+        "speciality": "Urology"
+    },
+    {
+        "id": 2,
+        "SNO": "#SP002",
+        "image": "specialities-02.png",
+        "speciality": "Neurology"
+    },
+    {
+        "id": 3,
+        "SNO": "#SP003",
+        "image": "specialities-03.png",
+        "speciality": "Orthopedic"
+    },
+    {
+        "id": 4,
+        "SNO": "#SP004",
+        "image": "specialities-04.png",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 5,
+        "SNO": "#SP005",
+        "image": "specialities-05.png",
+        "speciality": "Dentist"
+    }
+]

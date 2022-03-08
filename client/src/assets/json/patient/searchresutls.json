@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ruby Perrin",
+        "specialist": "MDS - Periodontology and Oral Implantology, BDS",
+        "category": "Dentist",
+        "image": "doctor-thumb-01.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(17)",
+        "likes": "98%",
+        "feedback": "17",
+        "fees": "$300 - $1000",
+        "location1": "Florida, USA",
+        "location2": "Florida, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dr. Darren Elder",
+        "specialist": "BDS, MDS - Oral & Maxillofacial Surgery",
+        "category": "Dentist",
+        "image": "doctor-thumb-02.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(35)",
+        "likes": "100%",
+        "feedback": "35",
+        "fees": "$50 - $300",
+        "location1": "Newyork, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dr. Deborah Angel",
+        "specialist": "MBBS, MD - General Medicine, DNB - Cardiology",
+        "category": "Cardiology",
+        "image": "doctor-thumb-03.jpg",
+        "icon": "specialities-04.png",
+        "rating":  "(27)",
+        "likes": "99%",
+        "feedback": "35",
+        "fees": "$100 - $400",
+        "location1": "Georgia, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sofia Brient",
+        "specialist": "MBBS, MS - General Surgery, MCh - Urology",
+        "category": "Urology",
+        "image": "doctor-thumb-04.jpg",
+        "icon": "specialities-01.png",
+        "rating":  "(27)",
+        "likes": "97%",
+        "feedback": "4",
+        "fees": "$150 - $250",
+        "location1": "Louisiana, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dr. Katharine Berthold",
+        "specialist": "MS - Orthopaedics, MBBS, M.Ch - Orthopaedics",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-06.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(52)",
+        "likes": "100%",
+        "feedback": "52",
+        "fees": "$100 - $500",
+        "location1": "Texas, USA",
+        "location2": "Texas, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {   
+        "id": "1",
+        "SNO": "1",
+        "image": "product.jpg",
+        "name": "Actamin",
+        "geneticname": "Amphetamine",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "THERE ONLY 5",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    },
+    {
+        "id": "2",
+        "SNO": "2",
+        "image": "product1.jpg",
+        "name": "Abilify",
+        "geneticname": "Aripiprazole",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "THERE ONLY 2",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    }
+]

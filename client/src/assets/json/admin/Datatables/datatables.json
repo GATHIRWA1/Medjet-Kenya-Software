@@ -1,0 +1,47 @@
+[
+    {   
+        "id": 1,
+        "name": "Airi Satou",
+        "position": "Accountant",
+        "office": "Tokyo",
+        "age": "33",
+        "date": "2008/11/28",
+        "salary": "$162,700"
+    },
+    {
+        "id": 2,
+        "name": "Garrett Winters",
+        "position": "Chief Executive Officer (CEO)",
+        "office": "London",
+        "age": "47",
+        "date": "2009/10/09",
+        "salary": "$1,200,000"
+    },
+    {
+        "id": 3,
+        "name": "Brielle Williamson",
+        "position": "Integration Specialist",
+        "office": "New York",
+        "age": "61",
+        "date": "2012/12/02",
+        "salary": "$372,000"
+    },
+    {
+        "id": 4,
+        "name": "Charde Marshall",
+        "position": "Regional Director",
+        "office": "San Francisco",
+        "age": "36",
+        "date": "2008/10/16",
+        "salary": "$470,600"
+    },
+    {
+        "id": 5,
+        "name": "Dai Rios",
+        "position": "Personnel Lead",
+        "office": "Edinburgh",
+        "age": "35",
+        "date": "2012/09/26",
+        "salary": "$217,500"
+    }
+]

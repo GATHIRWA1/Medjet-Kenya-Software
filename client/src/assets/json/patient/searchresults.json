@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ruby Perrin",
+        "specialist": "MDS - Periodontology and Oral Implantology, BDS",
+        "category": "Dentist",
+        "image": "doctor-thumb-01.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(17)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "98%",
+        "feedback": "17",
+        "fees": "$300 - $1000",
+        "location1": "Florida, USA",
+        "location2": "Florida, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dr. Darren Elder",
+        "specialist": "BDS, MDS - Oral & Maxillofacial Surgery",
+        "category": "Dentist",
+        "image": "doctor-thumb-02.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(35)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "100%",
+        "feedback": "35",
+        "fees": "$50 - $300",
+        "location1": "Newyork, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dr. Deborah Angel",
+        "specialist": "MBBS, MD - General Medicine, DNB - Cardiology",
+        "category": "Cardiology",
+        "image": "doctor-thumb-03.jpg",
+        "icon": "specialities-04.png",
+        "rating":  "(27)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "99%",
+        "feedback": "35",
+        "fees": "$100 - $400",
+        "location1": "Georgia, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sofia Brient",
+        "specialist": "MBBS, MS - General Surgery, MCh - Urology",
+        "category": "Urology",
+        "image": "doctor-thumb-04.jpg",
+        "icon": "specialities-01.png",
+        "rating":  "(27)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "97%",
+        "feedback": "4",
+        "fees": "$150 - $250",
+        "location1": "Louisiana, USA",
+        "location2": "Newyork, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dr. Katharine Berthold",
+        "specialist": "MS - Orthopaedics, MBBS, M.Ch - Orthopaedics",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-06.jpg",
+        "icon": "specialities-03.png",
+        "rating":  "(52)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "100%",
+        "feedback": "52",
+        "fees": "$100 - $500",
+        "location1": "Texas, USA",
+        "location2": "Texas, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dr. Marvin Campbell",
+        "specialist": "MBBS, MD - Ophthalmology, DNB - Ophthalmology",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-05.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(52)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "100%",
+        "feedback": "52",
+        "fees": "$50 - $700",
+        "location1": "Michigan, USA",
+        "location2": " Michigan, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Dr. Linda Tobin",
+        "specialist": "MBBS, MD - General Medicine, DM - Neurology",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-07.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(43)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "100%",
+        "feedback": "43",
+        "fees": "$100 - $1000",
+        "location1": "Kansas, USA",
+        "location2": " Kansas, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Dr. Paul Richard",
+        "specialist": "MBBS, MD - Dermatology , Venereology & Lepros",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-08.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(43)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "49%",
+        "feedback": "43",
+        "fees": "$100 - $400",
+        "location1": "California, USA",
+        "location2": "California, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Dr. John Gibbs",
+        "specialist": "MDS - Periodontology and Oral Implantology, BDS",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-09.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(112)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "49%",
+        "feedback": "43",
+        "fees": "$500 - $2500",
+        "location1": "Oklahoma, USA",
+        "location2": "Oklahoma, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Dr. Olga Barlow",
+        "specialist": "MDS - Periodontology and Oral Implantology, BDS",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-10.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(65)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "49%",
+        "feedback": "43",
+        "fees": "$75 - $250",
+        "location1": "Montana, USA",
+        "location2": "Montana, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Dr. Julia Washington ",
+        "specialist": "MBBS, MD - General Medicine, DM - Endocrinology",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-11.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(5)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "49%",
+        "feedback": "5",
+        "fees": "$275 - $450",
+        "location1": "Oklahoma, USA",
+        "location2": "Oklahoma, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Dr. Shaun Aponte",
+        "specialist": "MBBS, MS - ENT, Diploma in Otorhinolaryngology (DLO)",
+        "category": "Orthopaedics",
+        "image": "doctor-thumb-12.jpg",
+        "icon": "specialities-05.png",
+        "rating":  "(5)",
+        "available_on": "Available on Fri, 22 Mar",
+        "likes": "49%",
+        "feedback": "5",
+        "fees": "$150 - $350",
+        "location1": "Indiana, USA",
+        "location2": "Indiana, USA",
+        "images": [
+            {
+                "id" : 1,
+                "name": "feature-01.jpg"
+            },
+            {
+                "id" : 2,
+                "name": "feature-02.jpg"
+            },
+            {
+                "id" : 3,
+                "name": "feature-03.jpg"
+            },
+            {
+                "id" : 4,
+                "name": "feature-04.jpg"
+            }
+        ]
+    }
+]

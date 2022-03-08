@@ -1,0 +1,62 @@
+[
+    {   
+        "id": "1",
+        "SNO": "1",
+        "image": "product.jpg",
+        "name": "Actamin",
+        "geneticname": "Amphetamine",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "THERE ONLY 5",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    },
+    {
+        "id": "2",
+        "SNO": "2",
+        "image": "product1.jpg",
+        "name": "Abilify",
+        "geneticname": "Aripiprazole",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "THERE ONLY 2",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    },
+    {
+        "id": "3",
+        "SNO": "3",
+        "image": "product2.jpg",
+        "name": "Adderall",
+        "geneticname": "Amphetamine",
+        "category": "Phytopathology‎",
+        "price": "$10",
+        "quantity": "22",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    },
+    {
+        "id": "4",
+        "SNO": "4",
+        "image": "product3.jpg",
+        "name": "Abilify",
+        "geneticname": "Aripiprazole",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "120",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    },
+    {
+        "id": "5",
+        "SNO": "5",
+        "image": "product4.jpg",
+        "name": "Abilify",
+        "geneticname": "Aripiprazole",
+        "category": "Phytopathology‎",
+        "price": "$22",
+        "quantity": "50",
+        "Discount": "0%",
+        "Expire": "THE PRODUCT IS EXPIRED"
+    }
+]
