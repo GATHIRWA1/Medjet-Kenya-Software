@@ -27,15 +27,10 @@ BlogSchema = new Schema({
         required: [true, 'This part cannot  be empty '],
 
     },
-    image: {
-        type: Buffer,
-
-
-    },
-    videoLink: {
+    imageUrl: {
         type: String,
-
     },
+
 });
 
 const blog = mongoose.model('blog', BlogSchema);
