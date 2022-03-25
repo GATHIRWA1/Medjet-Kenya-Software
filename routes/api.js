@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 const blogController = require('../controllers/blogcontroller');
-
+const registerController = require('../controllers/userControllers');
 //blog routes
 
 //create blogs 
@@ -14,6 +14,10 @@ router.delete('/blogpost', deleteblog_post);
 //delete a blog 
 router.put('/blogpost', putblog_post);
 */
+
+//LOGIN & SIGNUP SYSTEM
+
+router.post('/register', registerController.registerUser)
 
 
 

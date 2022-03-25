@@ -1,6 +1,6 @@
-# docurre
+# MedjetKenya 
 
-> doccure project installation
+> MedjetKenya project installation
 
 ## Build Setup
 
