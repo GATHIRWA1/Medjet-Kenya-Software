@@ -1,8 +1,8 @@
 const express = require('express');
 const router = express.Router();
-
+const User = require('../models/usermodel');
 const blogController = require('../controllers/blogcontroller');
-const registerController = require('../controllers/userControllers');
+
 //blog routes
 
 //create blogs 
@@ -17,7 +17,21 @@ router.put('/blogpost', putblog_post);
 
 //LOGIN & SIGNUP SYSTEM
 
-router.post('/register', registerController.registerUser)
+router.post('/register', function(req, res, next) {
+    var query = req.body.email;
+    User.findOne({ query }, function(err, user) {
+        if (err) console.log(err.message);
+        if (user) {
+            res.send('This is email is already in use');
+            console.log('User exists');
+        } else {
+            User.create(req.body).then(function(user) {
+                res.status(200).send(user);
+            });
+        }
+    });
+
+})
 
 
 
