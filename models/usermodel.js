@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const { isEmail } = require('validator');
 const Schema = mongoose.Schema;
+const bcrpt = require('bcrypt');
 
 
 const UserSchema = new Schema({
@@ -8,14 +9,14 @@ const UserSchema = new Schema({
 
         type: String,
         required: [true, 'First Name  Field is Required '],
-     
+
 
 
     },
     lName: {
         type: String,
         required: [true, 'Last Name Field is Required '],
-    
+
 
     },
     Phone: {
@@ -52,7 +53,13 @@ const UserSchema = new Schema({
     Street: String
 
 });
+//Hashing  the password with bcrypt 
 
+UserSchema.pre('save', async function(next) {
+    const salt = await bcrptgenSalt();
+    this.password = await bcrpt.hash(this.password, salt);
+    next();
+});
 
 
 const user = mongoose.model('user', UserSchema);

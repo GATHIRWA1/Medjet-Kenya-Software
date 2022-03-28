@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const signUp_Controller = require('../controllers/userControllers');
+const auth_Controller = require('../controllers/authControllers');
 const blogController = require('../controllers/blogcontroller');
 
 //blog routes
@@ -17,7 +17,8 @@ router.put('/blogpost', putblog_post);
 
 //LOGIN & SIGNUP SYSTEM
 
-router.post('/register', signUp_Controller.registerUser);
+router.post('/register', auth_Controller.registerUser);
+router.get('/login', auth_Controller.loginUser);
 
 
 

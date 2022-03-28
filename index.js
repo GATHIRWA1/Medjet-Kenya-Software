@@ -26,6 +26,7 @@ app.use('/api', routes);
 
 //error handling
 app.use(function(err, req, res, next) {
+
     res.status(422).send({ Error: err.message });
 });
 
