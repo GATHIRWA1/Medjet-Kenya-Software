@@ -8,14 +8,14 @@ const UserSchema = new Schema({
 
         type: String,
         required: [true, 'First Name  Field is Required '],
-        unique: true,
+     
 
 
     },
     lName: {
         type: String,
         required: [true, 'Last Name Field is Required '],
-        unique: true,
+    
 
     },
     Phone: {
